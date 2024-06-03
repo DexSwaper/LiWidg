@@ -1,0 +1,2 @@
+/// <reference types="react" resolution-mode="require"/>
+export declare const ListItemText: import("@emotion/styled").StyledComponent<import("@mui/material").ListItemTextProps<import("react").ElementType<any, keyof import("react").JSX.IntrinsicElements>, import("react").ElementType<any, keyof import("react").JSX.IntrinsicElements>> & import("@mui/system").MUIStyledCommonProps<import("@mui/material").Theme>, {}, {}>;

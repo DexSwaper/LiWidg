@@ -1,0 +1,1 @@
+{"version":3,"file":"useWidgetEvents.js","sourceRoot":"","sources":["../../hooks/useWidgetEvents.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,MAAM,MAAM,CAAC;AAEzB,+CAA+C;AAC/C,MAAM,IAAI,GAAG,KAAwC,CAAC;AAEtD,MAAM,CAAC,MAAM,YAAY,GAAG,IAAI,EAAgB,CAAC;AAEjD,MAAM,CAAC,MAAM,eAAe,GAAG,GAAG,EAAE;IAClC,OAAO,YAAY,CAAC;AACtB,CAAC,CAAC"}
